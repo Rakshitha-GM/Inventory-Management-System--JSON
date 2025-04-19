@@ -1,5 +1,5 @@
 # Inventory-Management-System--JSON
-Sure! Here's a `README.md` file you can use for this inventory management system:
+ Here's a `README.md` file you can use for this inventory management system:
 
 markdown
 # Inventory Management System (Python)
